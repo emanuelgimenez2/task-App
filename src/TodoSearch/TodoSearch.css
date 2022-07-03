@@ -1,10 +1,10 @@
 .TodoSearch {
-  background: #fffdfd;
+   background: #fffdfd;
   border-radius: 2px;
   border: 2px solid #202329;
   margin: 0 24px;
   height: 64px;
-  width: calc(100% - 62px);
+  width: 50%;
   font-size: 24px;
   text-align: center;
   font-family: 'Montserrat';
@@ -15,7 +15,10 @@
   outline: none;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; 
+ 
+
+
   
 
 
